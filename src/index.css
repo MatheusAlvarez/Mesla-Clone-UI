@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Gotham SSm";
+    src: url("../public/Gotham\ Book.otf");
+}
+
+*{
+    font-family: "Gotham SSm" !important;
+    font-weight: 600 !important;
+}

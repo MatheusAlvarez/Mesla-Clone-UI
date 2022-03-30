@@ -1,0 +1,162 @@
+.item{
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+}
+
+.item .item-text{
+    color: transparent;
+}
+
+.item:hover .item-text{
+    transition: 1s;
+    color: black;
+}
+
+.item .item-desc{
+    color: transparent;
+}
+
+.item:hover .item-desc{
+    transition: 1s;
+    color: black;
+}
+
+.item-text{
+    width: 550px;
+    text-align: center;
+}
+
+.item-text p{
+    font-size: 36px;
+}
+.item-desc{
+    width: 550px;
+    text-align: center;
+}
+
+.item-container {
+    margin-top: 8%;
+}
+
+.item-third{
+    z-index: 100;
+    margin-top: 70%;
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+}
+
+
+
+.firstB {
+    border: solid 0px transparent;
+    border-radius: 100px;
+    background-color: #27272c;
+    color: white;
+    height: 40px;
+    width: 250px;
+    font-size: 18px;
+    margin-right: 50px;
+}
+.secondB {
+    border: solid 0px transparent;
+    border-radius: 100px;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    height: 40px;
+    width: 250px;
+    font-size: 18px;
+}
+
+
+@media (max-width: 1100px){
+    .item-text{
+        margin-top: 10%;
+    }
+}
+
+@media (max-width: 600px){
+    .item-third{
+        display: grid;
+        margin-right: 2.5%;
+    }
+    .firstB{
+        width: 90vw;
+        margin-bottom: 2.5%;
+    }
+    .secondB{
+        width: 90vw;
+    }
+    .item-text{
+        margin-top: 20%;
+        
+    }
+}
+
+@media (max-width: 560px){
+    .item-text{
+        width: 480px;
+        margin-left: 5%;
+    }
+    .item-desc{
+        width: 480px;
+        margin-left: 5%;
+    }
+}
+
+
+@media (max-width: 500px){
+    .item-text{
+        width: 400px;
+    }
+    .item-desc{
+        width: 400px;
+    }
+    .item{
+        width: 105vw;
+    }
+    .item-text{
+        margin-left: 10%;
+    }
+    .item-desc{
+        margin-left: 10%;
+    }
+}
+
+@media (max-width: 390px){
+    .item-text{
+        width: 310px;
+    }
+    .item-desc{
+        width: 310px;
+    }
+}
+
+@media (max-width: 340px){
+    .item-text{
+        width: 290px;
+    }
+    .item-desc{
+        width: 290px;
+    }
+    .item{
+        width: 110vw;
+    }
+}
+
+@media (max-width: 300px){
+    .item-text{
+        width: 220px;
+    }
+    .item-desc{
+        width: 220px;
+    }
+    .item{
+        width: 115vw;
+    }
+}

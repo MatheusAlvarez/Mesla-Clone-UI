@@ -1,0 +1,25 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 2%;
+}
+
+@media (max-width: 1000px){
+    .disappearItems{
+        display: none;
+    }
+    .footer{
+        display: grid;
+        margin-left: 45%;
+        text-align: center;
+    }
+}
+
+
+@media (max-width: 900px){
+    .footer{
+        margin-left: 42.5%;
+    }
+}

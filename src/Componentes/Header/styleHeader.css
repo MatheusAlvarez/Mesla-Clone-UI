@@ -1,0 +1,111 @@
+.header{
+    display: flex;
+    background-color: transparent;
+    background: none;
+    position: fixed;
+    width: 99vw;
+    top: 0;
+    margin: 0px;
+    margin-top: 0px;
+    z-index: 100;
+}
+
+.ghostItem{
+    border: 0px solid transparent;
+    padding: 5px;
+}
+.revealItems{
+    border: 0px solid transparent;
+    padding: 5px;
+}
+
+.header_logo{
+    height: 20px;
+    width: 100px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.header_logo img{
+    height: 17px;
+    width: 125px;
+}
+
+
+.header_center{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.header_center p{
+    margin: 10px;
+}
+
+.header_right{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 15px;
+}
+
+.header_right p{
+    margin: 10px;
+}
+
+.ghostItem{
+    border: solid 1px transparent;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.ghostItem:hover{
+    transition: 0.5s;
+    background-color: rgba(156, 184, 187, 0.7);
+}
+
+.revealItems:hover {
+    background-color: rgba(156, 184, 187, 0.7) !important;
+    border: 1px solid rgba(156, 184, 187, 0.7) !important;
+}
+
+.revealItems {
+    background-color: rgba(156, 184, 187, 0.7) !important;
+    border: 1px solid rgba(156, 184, 187, 0.7) !important;
+    box-shadow: none !important;
+}
+
+.revealGhostItems{
+    display: none;
+}
+
+@media(max-width: 1200px){
+    .ghostItem{
+        display: none;
+    }
+    .revealItems{
+        background-color: rgba(156, 184, 187, 0.4);
+        border: solid 1px transparent;
+        padding: 5px;
+        border-radius: 10px;
+    }
+    .revealGhostItems{
+        display: block;
+        margin-right: 15px;
+    }
+    .menu{
+        background-color: rgba(156, 184, 187, 0.7) !important;
+        padding-top: 8px !important;
+        font-size: 18px !important;
+        height: 35px;
+        border: solid transparent 0px;
+        border-radius: 15px !important;
+    }
+}
+
+.listItem{
+    margin-bottom: 12px;
+    margin-left: 10%;
+    font-weight: 401;
+}
+
+
