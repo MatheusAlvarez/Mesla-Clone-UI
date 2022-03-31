@@ -23,8 +23,8 @@
  - ``` npx create-react-app clone-tesla ```
  - ``` npm install react-bootstrap bootstrap@5.1.3 ```
 
-<!-- ## :information_source: Run it in Netlify -> Link below
-:link: **- https://** -->
+<## :information_source: Run it in Netlify -> Link below
+:link: **- https://mesla-clone.netlify.app**
 
 ## Squad Mesla - Members
 
