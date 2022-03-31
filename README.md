@@ -1,39 +1,40 @@
-# Richiest's man site on earth clone
+# Mesla-Clone-UI :open_file_folder:     
 
-## Objective
+**Clone of the tesla interface developed in React, through the knowledge of each member of the group in js and css**
 
-Create UI Tesla's FIRST WEBSITE PAGE clone using React JS 
+## :pushpin: Wireframe
 
-<b><h3>Prototype desired</h3></b>
+![tesla](https://github.com/MatheusAlvarez/Mesla-Clone-UI/blob/main/tesla.png)
+💻 https://www.tesla.com/
 
-![image](https://user-images.githubusercontent.com/88800549/159143468-0fa9a533-49b3-47c0-8ae9-0c6ca852cc44.png)
+##  📌 Tools used
 
-<hr>
+**<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;"></img> React** 
 
-## Result
+**<img align="center" alt="icon-react-bootstrap" height="35" width="35" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4" style="max-width:100%;"></img> react-bootstrap**
 
-![image](https://user-images.githubusercontent.com/88800549/159143485-bacb26ae-a61d-4e42-9d31-ae0d370c77bb.png)
+**<img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%;"></img> <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%;"></img> <img align="center" alt="icon-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%;"></img>HTML, CSS and JS** 
+
+## :information_source: To run the dependencies it is necessary to run the following commands:
+ - ``` npx create-react-app clone-tesla ```
+ - ``` npm install react-bootstrap bootstrap@5.1.3 ```
+https://github.com/MatheusAlvarez/Mesla-Clone-UI/blob/main/tesla.png
+
+<!-- ## :information_source: Run it in Netlify -> Link below
+:link: **- https://** -->
+
+## Squad Mesla - Members
+
+👨‍💻: **- Matheus Maia**
+
+👨‍💻: **- Pedro Palugan**
+
+👨‍💻: **- Luccas Thiago**
+
+👨‍💻: **- Thiago Messias**
 
 
 
-## Tecnology Used
-
-
-  
-![image](https://user-images.githubusercontent.com/88800549/159143355-e3b4be1c-9bba-4714-b73e-5c4103bf0940.png) ![image](https://user-images.githubusercontent.com/88800549/159143326-269d7d5c-df6c-4d4c-bc15-cd3100258c07.png) ![image](https://user-images.githubusercontent.com/88800549/159143342-cfac52d7-1af9-4c39-8761-38ed94afd6f0.png)
-  
-## Site's link
-
-<a target="_blank">https://funny-pie-51f145.netlify.app/</a>
-
-
-## Squad
-
-Luccas Thiago
-
-Matheus Maia
-
-Pedro Palugan
-
-Thiago Messias
-
+<p align="center">
+  <img width="300px" height"=300px" src="https://github.com/MatheusAlvarez/Mesla-Clone-UI/blob/main/icon.png">
+  </p>
