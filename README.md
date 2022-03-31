@@ -24,13 +24,13 @@
 
 ## Squad Mesla - Members
 
-👨‍💻: **- Matheus Maia**
+👨‍💻: **- [Matheus Alvarez](https://github.com/MatheusAlvarez "GitHub do Matheus")**
 
-👨‍💻: **- Pedro Palugan**
+👨‍💻: **- [Pedro Palugan](https://github.com/pedropalugan "GitHub do Pedro")**
 
-👨‍💻: **- Luccas Thiago**
+👨‍💻: **- [Luccas Thiago](https://github.com/LuccasThiago "GitHub do Luccas")**
 
-👨‍💻: **- Thiago Messias**
+👨‍💻: **- [Thiago Messias](https://github.com/Thmsantos "GitHub do Thiago")**
 
 
 
