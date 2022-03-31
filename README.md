@@ -1,6 +1,6 @@
 # Mesla-Clone-UI :open_file_folder:     
 
-** Mesla-Clone-UI is a Clone of the tesla website developed in React, through the knowledge of each group member in js and css**
+**Mesla-Clone-UI is a Clone of the tesla website developed in React, through the knowledge of each group member in js and css**
 
 ## :pushpin: Wireframe
 
