@@ -5,7 +5,7 @@
 ## :pushpin: Wireframe
 
 ![tesla](https://github.com/MatheusAlvarez/Mesla-Clone-UI/blob/main/tesla.png)
-💻 https://www.tesla.com/
+👀 **See full wireframe:** https://www.tesla.com/
 
 ##  📌 Tools used
 
