@@ -18,7 +18,6 @@
 ## :information_source: To run the dependencies it is necessary to run the following commands:
  - ``` npx create-react-app clone-tesla ```
  - ``` npm install react-bootstrap bootstrap@5.1.3 ```
-https://github.com/MatheusAlvarez/Mesla-Clone-UI/blob/main/tesla.png
 
 <!-- ## :information_source: Run it in Netlify -> Link below
 :link: **- https://** -->
