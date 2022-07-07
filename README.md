@@ -1,6 +1,6 @@
 # Mesla-Clone-UI :open_file_folder:     
 
-**Mesla-Clone-UI is a clone of the tesla website developed in React, through the knowledge of each group member in js and css**
+**Mesla-Clone-UI é um clone do site tesla desenvolvido em React, através do conhecimento de cada membro do grupo em js e css**
 
 ## :pushpin: Wireframe
 
@@ -27,7 +27,7 @@
 ## :information_source: Run it in Netlify -> Link below
 :link: **- https://mesla-clone.netlify.app**
 
-## Squad Mesla - Members
+## Squad Mesla - Membros
 
 👨‍💻: **- [Matheus Alvarez](https://github.com/MatheusAlvarez "GitHub do Matheus")**
 
@@ -37,7 +37,7 @@
 
 👨‍💻: **- [Thiago Messias](https://github.com/Thmsantos "GitHub do Thiago")**
 
-## Logo of Squad
+## Logo da Squad
 
 <p align="center">
   <img width="300px" height"=300px" src="https://github.com/MatheusAlvarez/Mesla-Clone-UI/blob/main/icon.png">
